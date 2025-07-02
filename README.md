@@ -38,6 +38,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TejDevBack/TejDevBack/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/gomesdev1/gomesdev1/output/snake.svg" alt="Snake animation" />
