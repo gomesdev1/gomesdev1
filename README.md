@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga<br>📌 São Paulo - SP</p>
+<h4 align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga<br>📌 São Paulo - SP</h4>
 
 ###
 
@@ -38,4 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gomesdev1/gomesdev1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TejDevBack/TejDevBack/output/snake.svg" alt="Snake animation" />
+
+###
