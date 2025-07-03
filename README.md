@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TejDevBack/TejDevBack/output/snake.svg" alt="Snake animation" />
 
-###
+
+
