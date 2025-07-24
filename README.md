@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga<br>📌 São Paulo - SP</h3>
+<h3 align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga na área<br>📌 São Paulo - SP</h3>
 
 ###
 
-<h2 align="left">Stacks</h2>
+<h2 align="left">Linguagens e tecnologias💻</h2>
 
 ###
 
@@ -31,8 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+
 
 ###
 
