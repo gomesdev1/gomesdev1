@@ -1,12 +1,13 @@
-<h1 align="left">Olá👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#00008Bheight=120&section=header" width="100%"/>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF000&center=true&vCenter=true&width=600&lines=Hello,+visitors!!;Welcome+to+my+profile!" alt="Typing SVG" />
 
 <h2 align="left">Sobre mim</h2>
 
 ###
 
-<h3 align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga na área de T.I<br>📌 São Paulo - SP</h3>
+<p align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga na área de T.I<br>📌 São Paulo - SP</p>
 
 ###
 
