@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00008B&center=true&vCenter=true&width=600&lines=Hello,+visitors!!;Welcome+to+my+profile!" alt="Typing SVG" />
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim🧑🏻‍💻</h2>
 
 ###
 
