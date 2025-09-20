@@ -49,6 +49,8 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"/>
   <img width="1"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 
 ###
