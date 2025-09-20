@@ -14,41 +14,41 @@
 <h2 align="left">Linguagens e tecnologias💻</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"/>
+  <img width="1"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"/>
 </div>
 
 ###
