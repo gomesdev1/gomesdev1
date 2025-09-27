@@ -26,8 +26,6 @@
   <img width="1"/>
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"/>
   <img width="1"/>
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"/>
-  <img width="1"/>
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"/>
   <img width="1"/>
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"/>
