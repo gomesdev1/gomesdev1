@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨Me chamo Pedro<br>📚 Cursando Engenharia de Software<br>🎯 Objetivos: Conquistar minha primeira vaga na área de T.I<br>📌 São Paulo - SP</p>
+<p align="left">✨Me chamo Pedro<br>📚 Cursando Análise e Desenvolvimento de Sistemas<br>🎯 Objetivos: Conquistar minha primeira vaga na área de T.I<br>📌 São Paulo - SP</p>
 
 ###
 
