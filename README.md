@@ -51,6 +51,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
 </div>
 
 ###
