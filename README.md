@@ -55,13 +55,6 @@
   <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gomesdev1&radius=16&theme=gotham&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 
 ###
 
